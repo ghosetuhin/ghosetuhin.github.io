@@ -24,6 +24,14 @@ Code has been cloned from https://github.com/varadbhogayata/varadbhogayata.githu
 ### Screenshot of the webpage
 ![image](https://github.com/ghosetuhin/ghosetuhin.github.io/assets/71938696/aaabf8c5-257f-483e-9d2a-4a197522222e)
 
+## Activity 4
+
+### Commits made for this activity
+![image](https://github.com/ghosetuhin/ghosetuhin.github.io/assets/71938696/b4660549-834c-443b-bfa1-a273b64e67ca)
+
+### Screenshot of the webpage
+![image](https://github.com/ghosetuhin/ghosetuhin.github.io/assets/71938696/8e9222fc-f635-48e7-99d3-48a1f4badd81)
+
 
 
 
